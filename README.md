@@ -21,3 +21,7 @@ offering personalized movie recommendations based on user preferences.
 - **Similarity Measurement & Recommendation**: Use K-Nearest Neighbors (KNN) to compute similarity scores and recommend the most similar movies. 
 - **Evaluation & Optimization**: Measure accuracy and apply techniques like dimensionality reduction to improve recommendations. 
 - **Deployment & Continuous Improvement**: Deploy the system, update it with new data, and refine it over time for better performance. 
+
+
+## Project Workflow
+![](https://github.com/Shandeep-Raula/Content-Bsed-Recommendation-System/blob/main/Worflow.png)
